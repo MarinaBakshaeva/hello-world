@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.windows": "Git Bash"
+}
